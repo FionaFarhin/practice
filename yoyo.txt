@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world
+=======
+Hii world
+>>>>>>> refs/remotes/origin/master
